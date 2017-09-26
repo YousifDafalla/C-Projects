@@ -1,5 +1,6 @@
 //Student Courses Database
 //Author: Yousif Dafalla
+//Version 2 no reading or writing to the file
 #include<iostream>
 #include<cstdlib>
 #include<string>
