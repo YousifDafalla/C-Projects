@@ -1,0 +1,31 @@
+Write a program that allows the user to initially enter information on 4 students and 10 courses.  Have the program associate each student to at least four courses for a semester session.  The program will display a report showing the assigned courses for each students with the total number of credits.
+
+The student information should include:
+
+1. student ID
+
+2. first name
+
+3. last name
+
+The course information should include:
+
+1. Course ID
+
+2. Course name
+
+3. Number of credits
+
+Design requirement:
+
+A student will be assigned a course through a session.  The session should include the following attributes:
+
+1. session ID
+
+2. student ID
+
+3. course ID
+
+4. start date
+
+5. end date
