@@ -1,6 +1,6 @@
-Write a program that allows the user to initially enter information on 4 students and 10 courses.  Have the program associate each student to at least four courses for a semester session.  The program will display a report showing the assigned courses for each students with the total number of credits.
+This is a program that allows the user to initially enter information on students and courses.  The program allows to associate each student to at least four courses for a semester session.  The program will display a report showing the assigned courses for each students with the total number of credits.
 
-The student information should include:
+The student information includes:
 
 1. student ID
 
@@ -8,7 +8,7 @@ The student information should include:
 
 3. last name
 
-The course information should include:
+The course information should includes:
 
 1. Course ID
 
