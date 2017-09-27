@@ -1,0 +1,39 @@
+Title: Simple Banking Record
+
+Learning objectives:
+
+1. Use of functions
+
+2. Use of loops and if statement
+
+3. Use of arrays and pointers
+
+Lab Objective: Part 1
+
+Write a program that will be used by a bank clerk to create a client's account and will then allow the clerk to enter withdraws and deposits on that account.  The program should offer the ability for the clerk to view the current balance on the account.
+
+ 
+
+Sample run of the program:
+
+At startup the clerk will get a menu:
+
+                       MAIN MENU
+
+                       ==========
+
+               1. Add a client account
+
+               2. Apply transactions on the client account
+
+               3. View the balance
+
+               4. Exit
+
+       Enter your choice:_
+
+If the clerk chooses option 1:
+
+The program will ask to enter an account number and full name;
+
+The program will then return to the main menu.
