@@ -1,0 +1,10 @@
+This is a generic linked list class and function implementation
+The items listed can be of any data type but for this example they are
+of type float
+The class has the following functions:
+1. Insert() To add an item to the list
+2. IsEmpty() To check if the list is empty or not empty
+3. HasNext() To check if the list has a next item or not
+4. ResetList() To Reset the list and make the current pointer point to the beginning of the list
+5. GetNextItem() Returns the item pointed to by the current pointer
+6. Delete() Deletes the item chosen by the user
